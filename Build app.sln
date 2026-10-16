@@ -1,0 +1,4 @@
+-task: VSBuild@1
+ inputs:
+   solution: '**/*.sln'
+   configuration: 'Release'
